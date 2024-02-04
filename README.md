@@ -1,6 +1,6 @@
 # Effective API Field Definitions
 
-Have you ever experienced bad documentation? Whether it's assembling your child's toy or setting up your camera for that once-in-a-lifetime solar eclipse, there is no room for ambiguity. Clearly written API reference documentation is even more important because the target audience is technical and efficiency is key. Following is a sample JSON and the corresponding field definitions table from an API reference guide. Note the useful, descriptive definitions written by a technical writer. Which do you prefer?
+Have you ever experienced bad documentation? Whether it's assembling your child's toy or setting up your camera for that once-in-a-lifetime solar eclipse, there is no room for ambiguity in documentation. Clearly written API reference documentation is even more important because the target audience is technical and efficiency is key. Following is a sample JSON and the corresponding field definitions table from an API reference guide. Note the useful, descriptive definitions written by a technical writer. Which do you prefer?
 
 **Sample JSON**
 
@@ -37,7 +37,7 @@ Have you ever experienced bad documentation? Whether it's assembling your child'
 
 **Field Definitions Table**
 
-|Object |Ambiguous Definition |More Useful Definition |
+|Object |Ambiguous Definition |Useful, Descriptive Definition |
 |---|---|---|
 |addressList  |Address data  |An object that contains details about the client's address.  |
 |addressList.clientName |Client name  |Name of the client.  |
