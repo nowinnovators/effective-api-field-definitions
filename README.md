@@ -1,6 +1,6 @@
-### API Field Definitions {#api-field-defs}
+### API Field Definitions
 
-The following example shows ambiguous field definitions and more useful, descriptive definitions.
+Have you ever experienced bad documentatation? Whether it's assembling your child's toy or setting up your camera for that once in a lifetime solar eclipse, there is no room for ambiguity. Clearly written API reference documentation is even more important because the target audience is technical and efficiency is an important factor. Following is a sample JSON and the corresponding field definitions table from an API reference guide. Note the useful, descriptive definitions written by a technical writer. Which do you prefer?
 
 **Sample JSON**
 
