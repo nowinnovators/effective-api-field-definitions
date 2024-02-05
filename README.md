@@ -1,6 +1,6 @@
 # Effective API Field Definitions
 
-Have you ever experienced bad documentation? Whether it's assembling your child's toy or setting up your camera for that once-in-a-lifetime solar eclipse, there is no room for ambiguity in documentation. Clearly written API reference documentation is even more important because the target audience is technical and efficiency is key. Following is a sample JSON and the corresponding field definitions table from an API reference guide. Note the useful, descriptive definitions written by a technical writer. Which do you prefer?
+Have you ever experienced bad documentation? Whether it's assembling your child's toy or setting up your camera for that once-in-a-lifetime solar eclipse, poorly written, ambiguous documentation is wasteful and frustrating. Clearly written API reference documentation is even more important because the target audience is technical and efficiency is key. Following is a sample JSON and the corresponding field definitions table from an API reference guide. Compare the ambiguous definitions to the useful, descriptive definitions written by a technical writer. Which do you prefer?
 
 **Sample JSON**
 
